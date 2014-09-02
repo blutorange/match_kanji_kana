@@ -2,6 +2,8 @@
 
 for http://meta.codegolf.stackexchange.com/questions/1847/sandbox-for-proposed-challenges/2123#2123
 
+Dictionary files can also be found [in the dic folder](./dic).
+
 ##Tutorial
 
 **Do not read any further if you want to challenge yourself, or do the research yourself.**
