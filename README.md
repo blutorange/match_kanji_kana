@@ -2,7 +2,7 @@
 
 for http://meta.codegolf.stackexchange.com/questions/1847/sandbox-for-proposed-challenges/2123#2123
 
-Dictionary files can also be found [in the dic folder](./dic).
+Dictionary files can also be found [in the dic folder](dics/).
 
 ##Tutorial
 
