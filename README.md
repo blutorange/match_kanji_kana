@@ -576,8 +576,6 @@ It shall occur only after a `KATAKANA` or `HIRAGANA` that can be, or has been, v
 
 ##Final Feature
 
-Score +40
-
 Support [special gikun readings](http://en.wikipedia.org/wiki/Kanji#Special_readings) by implenting words spanning multiple `MOONGLYPH`s. This means you will need a dictionary file.
 
 `大和` (an old name for Japan) is read as `やまと` (yamato), and it is more than the sum of its parts. This reading *cannot* be represented as a combination of the individual readings of each `MOONGLYPH`. The compound `大和` itself is read as `やまと`.
